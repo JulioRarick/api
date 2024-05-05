@@ -3,5 +3,4 @@ The mindNotes is a web application that I developed to enhance my skills in Java
 
 
 With integrated search features, finding specific notes is quick and easy, even in large volumes of information.
-
 MindNotes was developed with a focus on simplicity, performance, and usability, providing a powerful tool for students, professionals, and enthusiasts who want to keep their information organized and accessible anytime, anywhere. Additionally, it is a project that is constantly evolving to incorporate new features and enhancements to the application.
